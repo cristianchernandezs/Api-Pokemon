@@ -1,0 +1,93 @@
+.App {
+    text-align: center;
+  }
+
+  .title {
+    
+    box-sizing: border-box;
+    display: block;
+    /* width: 115px;
+    height: 115px; */
+    padding: left 80%; 
+    background-size: 80%;
+    background: url("data:image/jpeg;base64,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");
+    overflow: hidden;
+    text-align: center;
+    color: rgb(201, 204, 19);
+  }
+
+  body {
+    background-image: url("https://w0.peakpx.com/wallpaper/812/9/HD-wallpaper-pokemon-snorlax-pokemon.jpg");
+    background-size: 80%;
+  }
+  
+  /* DivTable.com */
+  .divTable {
+    display: table;
+    max-width: 20em;
+    float: right;
+    display: flex;
+    align-items: center;
+  }
+  .divTableRow {
+    display: table-row;
+  }
+  .divTableHeading {
+    background-color: #eee;
+    display: table-header-group;
+  }
+  .divTableCell,
+  .divTableHead {
+    border: 1px solid #011109;
+    display: table-cell;
+    padding: 3px 10px;
+  }
+  .divTableHeading {
+    background-color: #eee;
+    display: table-header-group;
+    font-weight: bold;
+  }
+  .divTableFoot {
+    background-color:   rgb(219, 210, 210);
+    display: table-footer-group;
+    font-weight: bold;
+  }
+  .divTableBody {
+    background-color:   rgb(116, 108, 189);
+    display: table-row-group;
+  }
+
+  .divTableCell:nth-child(odd) {
+    background-color: gainsboro;
+  }
+  
+  .container {
+    display: flex;
+    opacity: 0.9;
+    /* background-color: rgb(173, 187, 179); */
+    justify-content: center;
+  }
+  
+  img {
+    height: 20em;
+  }
+  
+  input {
+    box-sizing: border-box;
+    font-size: 2rem;
+    padding: 1rem;
+    display: block;
+    margin: 2rem auto;
+  }
+  
+  .footer {
+    
+    background: url("https://www.prestashop.com/forums/uploads/monthly_2021_05/1240280774_footerpokemon.png.7a415dc275e9ca36a64ae39561feb9da.png");
+    text-align: center   ;
+    color: rgb(27, 26, 25);
+    bottom: 0;
+    position:absolute   ;  
+    
+    height: 20%;
+    
+  }
