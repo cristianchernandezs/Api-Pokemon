@@ -1,4 +1,4 @@
-# Mquetado 2 usando react.
+# Conectando Api de pokemon 
 
 ![alt text](https://github.com/cristianchernandezs/Api-Pokemon/blob/main/Captura%20de%20pantalla%20pokedesk.png)
 
