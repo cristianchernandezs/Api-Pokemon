@@ -1,3 +1,9 @@
+# Mquetado 2 usando react.
+
+![alt text](https://github.com/cristianchernandezs/Maquetado-2/blob/main/Captura%20de%20pantalla%20maquetado%202.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
