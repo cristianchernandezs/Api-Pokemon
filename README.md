@@ -1,4 +1,4 @@
-# Conectando Api de pokemon 
+# Conectando Api de pokemon usando REACT.
 
 ![alt text](https://github.com/cristianchernandezs/Api-Pokemon/blob/main/Captura%20de%20pantalla%20pokedesk.png)
 
